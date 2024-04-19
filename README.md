@@ -39,8 +39,6 @@ BargoDrip is a command-line tool designed to help users find the cheapest prices
 2. Compare prices across different stores for a given product.
 3. Suggest the cheapest option and display the address of the corresponding store.
 
-It's great to include a "Challenges" section in your README.md file to provide transparency about the potential hurdles faced during the development process. Here's an example of how you can structure this section:
-
 ## Challenges
 
 Developing BargoDrip presented several challenges, including:
