@@ -1,7 +1,4 @@
-To make the BargoDrip CLI work, the following aspects will need to be created from scratch:
-
-Certainly! Here's an updated section on "Key Components to Develop" with a step-by-step process for creating the BargoDrip CLI:
-
+To make the BargoDrip CLI work, the following aspects will need to be created:
 ## Key Components to Develop
 
 To create the BargoDrip CLI, you'll need to develop several key components. Here's a step-by-step process to guide you through the development:

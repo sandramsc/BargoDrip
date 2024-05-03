@@ -33,6 +33,20 @@ BargoDrip is a command-line tool designed to help users find the cheapest prices
 | BeautifulSoup | Web scraping library |
 | Google Maps API | API for retrieving store locations |
 
+
+
+| File          | Description                                                                       |
+|---------------|-----------------------------------------------------------------------------------|
+| __init__.py   | Enables `rptodo/` to be a Python package.                                         |
+| __main__.py   | Provides an entry-point script to run the app from the package using the `python -m rptodo` command. |
+| cli.py        | Provides the Typer command-line interface for the application.                     |
+| config.py     | Contains code to handle the application’s configuration file.                      |
+| database.py   | Contains code to handle the application’s to-do database.                          |
+| bargodrip.py     | Provides code to connect the CLI with the to-do database.                          |
+
+
+
+
 ### Features
 
 1. Retrieve current stock data from stores in a specified area.
