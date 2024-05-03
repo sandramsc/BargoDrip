@@ -8,7 +8,7 @@ The BargoDrip CLI is designed to help users compare prices of products across di
 
 1. User initiates the CLI tool by running the command `bargodrip`.
 2. User enters a search query for a specific product, such as `"iPhone 11"`.
-3. User specifies the area for the search, for example, `"New York"`.
+3. User specifies the area for the search, for example, `"Berlin"`.
 4. CLI tool retrieves current stock data for the specified product from stores in the specified area.
 5. User receives a comparison of prices across different stores offering the product.
 6. CLI tool suggests the cheapest option and displays the address of the corresponding store.
