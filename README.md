@@ -65,7 +65,7 @@ Developing BargoDrip presented several challenges, including:
 
 4. **Performance Optimization:** Optimizing the performance of the CLI tool, especially when fetching and processing large datasets, posed challenges in terms of response times and resource utilization. Implementing efficient algorithms, asynchronous processing, and caching strategies helped address these performance concerns.
 
-5. **Deployment and Packaging:** Setting up deployment pipelines and packaging the CLI tool for distribution across different platforms (Windows, macOS, Linux) posed challenges in ensuring compatibility and seamless installation experiences. Overcoming this challenge required knowledge of packaging tools and scripting languages.
+5. **Deployment and Packaging:** Setting up deployment pipelines and packaging the CLI tool for distribution for Linux. Overcoming this challenge required knowledge of packaging tools and scripting.
 
 ## Lessons Learned
 
@@ -75,18 +75,17 @@ Through overcoming these challenges, several valuable lessons were learned:
 
 3. **Collaboration and Support:** Leveraging the expertise and support of peers, online communities, and developer forums proved invaluable in overcoming technical challenges. Collaborating with others, seeking advice, and sharing knowledge fosters a sense of community and accelerates problem-solving.
 
-4. **Persistence and Adaptability:** Persistence and adaptability are key qualities when facing complex challenges in software development. Embracing failures as learning opportunities, staying resilient in the face of setbacks, and remaining open to alternative solutions are essential for overcoming obstacles and achieving success.
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-$ git clone https://github.com/your-username/BargoDrip.git
+$ git clone https://github.com/sandramsc/BargoDrip.git
 ```
 ## Getting Started
 
 ### Prerequisites
-- Go installed on your local machine
+- Python3 installed on your local machine
 
 ### Installation
 1. Navigate to the project directory:
@@ -98,7 +97,7 @@ $ git clone https://github.com/your-username/BargoDrip.git
 
 3. Start the application:
     ```bash
-    $ go run main.go
+    $ python3 main.py
     ```
 ### If using Docker:
 
